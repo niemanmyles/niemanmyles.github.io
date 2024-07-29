@@ -3,6 +3,7 @@ Thumbs.db
 db.json
 *.log
 node_modules/
-public/
+public/*
 .deploy*/
 _multiconfig.yml
+themes/hexo-theme-fluid/_config.yml
